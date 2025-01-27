@@ -1,4 +1,4 @@
-def recursiveFibonacci(int num):
+def recursiveFibonacci(num):
 	#if you are asking for the 0th Fibonacci number, return 1
 	if(num == 0):
 		return 1
