@@ -7,7 +7,7 @@
 Geoff contributed the recursive Fibonacci sequence generator and Nathan contributed the iterative Fibonacci sequence generator. Each contributor made a new branch for their changes and created a pull request so that their code could be reviewed before merging.
 
 ## Project Explanation
-The project generated the Fibonacci sequences using recursive and iterative methods.
+The project generates Fibonacci sequences using recursive and iterative methods.
 
 ## Getting Started
 1. Install Python 3 on your computer
